@@ -8,20 +8,20 @@ data_profil = [
         "id": "modal-about",
         "judul": "About Me",
         "gambar": "about.jpg",
-        "isi_teks": "Halo! Saya Al Yasmin Assadiyah, seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besar di bidang pengembangan perangkat lunak, khususnya Python. Saya sangat suka memecahkan masalah melalui kode dan terus belajar teknologi baru."
+        "isi_teks": "Sebagai mahasiswi Teknologi Informasi, saya telah mendedikasikan waktu saya untuk mempelajari siklus pengembangan perangkat lunak secara mendalam. Saya telah berhasil menyelesaikan beberapa proyek tugas kampus, hingga situs portofolio pribadi. Saya sangat menyukai tantangan baru dan selalu mencari peluang untuk menerapkan keterampilan saya dalam skenario dunia nyata. Saya percaya bahwa kolaborasi dan pembelajaran berkelanjutan adalah kunci dalam dunia teknologi. Saya terbuka untuk kesempatan magang dan kolaborasi proyek!"
     },
     {
         "id": "modal-kuliah",
         "judul": "Mahasiswa IT",
         "gambar": "tenis.jpg",
-        "isi_teks": "Tahun 2023 - Sekarang: Saat ini saya sedang menempuh pendidikan Teknik Informatika. Di sini saya fokus mempelajari algoritma, struktur data, dan pengembangan web backend."
+        "isi_teks": "Tahun 2024 - Sekarang: Saat ini saya sedang menempuh pendidikan D4 - Teknik Informatika. Di sini saya fokus mempelajari algoritma, struktur data, dan pengembangan web backend hingga frontend."
     },
     {
         "id": "modal-cv",  
         "judul": "My CV",  
         "gambar": "leg.jpg", 
         "isi_teks": "Berikut adalah Curriculum Vitae (CV) saya. Silakan klik tombol di bawah ini untuk melihat detail riwayat pendidikan, keahlian, dan pengalaman yang saya miliki.",
-        "file_cv": "CV_Baru1.pdf.pdf"  
+        "file_cv": "CV_Baru.pdf.pdf"  
     },
     {
         "id": "modal-skills",  
