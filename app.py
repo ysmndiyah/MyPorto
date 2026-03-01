@@ -61,4 +61,4 @@ def proyek():
     return render_template('proyek.html', profil=data_profil, proyek=data_proyek)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000)
